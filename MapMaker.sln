@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapMaker", "MapMaker\MapMaker.csproj", "{A0D6EE36-AB53-4C45-9001-D5B808E7C4C7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AC68A20F-0640-4CDB-804A-9238074865F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0D6EE36-AB53-4C45-9001-D5B808E7C4C7}.Debug|x86.ActiveCfg = Debug|x86
+		{A0D6EE36-AB53-4C45-9001-D5B808E7C4C7}.Debug|x86.Build.0 = Debug|x86
+		{A0D6EE36-AB53-4C45-9001-D5B808E7C4C7}.Release|x86.ActiveCfg = Release|x86
+		{A0D6EE36-AB53-4C45-9001-D5B808E7C4C7}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4D42936-B442-4F73-8026-3C9360FA65D1}
+	EndGlobalSection
+EndGlobal
