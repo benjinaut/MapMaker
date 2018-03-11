@@ -16,7 +16,7 @@ namespace MapMaker
 		public Game1()
 		{
 			graphics = new GraphicsDeviceManager(this);
-			bool fullscreen = false;
+			bool fullscreen = true;
 			if (!fullscreen)
 			{
 				graphics.PreferredBackBufferWidth = 1900;  // set this value to the desired width of your window
@@ -25,7 +25,7 @@ namespace MapMaker
 			}
 			else
 			{
-				graphics.ToggleFullScreen();
+				graphics.ToggleFullScreen(); //passt die skalierung irgend wie komisch an
 			}
 
 
